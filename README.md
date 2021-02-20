@@ -131,7 +131,7 @@ Package operations: 8 installs, 0 updates, 0 removals
   • Installing requests (2.25.1)
 ```
 
-현재 이 프로젝트에 설치되 있는 패키지를 이쁘게 보시려면 `poetry show —tree`을 사용하면 됩니다. 터미널에서 보시면 더 이쁘게 보입니다.
+현재 이 프로젝트에 설치되 있는 패키지를 이쁘게 보시려면 `poetry show —tree`을 사용하면 됩니다. 터미널에서 보시면 더 이쁘게 보입니다.
 
 ```sh
 (poetry_test) pi@4:~/poetry_test $ poetry show --tree
